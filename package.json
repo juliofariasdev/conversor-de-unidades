@@ -1,0 +1,15 @@
+{
+  "name": "convertor-unidade",
+  "version": "1.0.0",
+  "description": "Uma aplicação que converte celsius para fahrenheit e quilometros para milhas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "juliofariasdev",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "type": "module"
+}
